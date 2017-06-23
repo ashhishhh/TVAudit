@@ -1,0 +1,27 @@
+
+PHP CODE SNIFFER VIOLATION SOURCE SUMMARY
+-----------------------------------------------------------------------------
+STANDARD  CATEGORY            SNIFF                                     COUNT
+-----------------------------------------------------------------------------
+DrupalPr  Code analysis       Variable analysis unused variable         833
+DrupalPr  Objects             Global drupal global drupal               819
+DrupalPr  Commenting          Comment empty line spacing after          427
+DrupalPr  Objects             Global function global function           360
+DrupalPr  Commenting          Author tag author found                   223
+DrupalPr  Code analysis       Variable analysis undefined variable      205
+DrupalPr  Objects             Global class global class                 150
+DrupalPr  Info files          Namespaced dependency non namespaced      93
+DrupalPr  Function calls      Message T error message                   60
+DrupalPr  General             Options T tfor value                      57
+DrupalPr  Yaml                Routing access permission found           27
+DrupalPr  General             Description T                             7
+DrupalPr  Yaml                Routing access open callback              6
+DrupalPr  Objects             Unused private method unused method       5
+DrupalPr  General             Class name class prefix                   4
+DrupalPr  Commenting          Expected exception tag found              3
+DrupalPr  Function definitio  Form alter doc different                  1
+-----------------------------------------------------------------------------
+A TOTAL OF 3280 SNIFF VIOLATIONS WERE FOUND IN 17 SOURCES
+-----------------------------------------------------------------------------
+
+
